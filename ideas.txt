@@ -1,21 +1,28 @@
 IDEAS (alternativas)
 --------------------
 
-- Enriquecimiento de alg˙n dataset existente interesante de Kaggle o similar.
+- Enriquecimiento de alg√∫n dataset existente interesante de Kaggle o similar.
 
-- Complementar dataset con datos abiertos de alg˙n repositorio como 
+- Complementar dataset con datos abiertos de alg√∫n repositorio como 
 https://data.upf.edu/es/dataset
 http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&pagename=ProductosYServicios%2FPYSLayout
 
-- Dataset compuesto por datos extraÌdos con web scraping de distintas fuentes
+- Dataset compuesto por datos extra√≠dos con web scraping de distintas fuentes
+
+- Opcion sobre datos abiertos del estado (Espa√±a) http://datos.gob.es
+
+- Mecanismo de reporte sobre gobiernos (transparencia, etc. ) de la alianza para el gobierno abierto (Open Government Partnership) compromisos https://www.opengovpartnership.org/about/independent-reporting-mechanism/ogp-explorer-and-irm-data
+
+- Opci√≥n justicia abierta. An√°lisis de la estadstica judicial en Espa√±a. Portal del Poder Judicial http://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/
 
 
-TEM¡TICA (combinaciÛn de varias)
+
+TEM√ÅTICA (combinaci√≥n de varias)
 --------
 
 - Dataset enfocado a lugares de ocio de Madrid
 
-- InformaciÛn procedentes de diferentes sensores en smartcities: temperaturas, flujo de tr·fico,...)
+- Informaci√≥n procedentes de diferentes sensores en smartcities: temperaturas, flujo de tr√°fico,...)
 
 PROPUESTAS CONCRETAS
 --------------------
