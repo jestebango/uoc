@@ -1,2 +1,2 @@
 # uoc
-Prácticas de la asignatura TIPOLOGÍA DE DATOS
+Asignatura TIPOLOGÍA DE DATOS
