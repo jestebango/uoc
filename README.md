@@ -1,2 +1,2 @@
 # uoc
-Asignatura TIPOLOGÍA DE DATOS
+Asignatura TIPOLOGÍA DE DATOS. Ver Wiki.
