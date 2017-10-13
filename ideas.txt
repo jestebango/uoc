@@ -14,7 +14,7 @@ http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&
 - Mecanismo de reporte sobre gobiernos (transparencia, etc. ) de la alianza para el gobierno abierto (Open Government Partnership)
 compromisos https://www.opengovpartnership.org/about/independent-reporting-mechanism/ogp-explorer-and-irm-data. Posible recogida y apertura de los datos de los informes IRM?
 
-- Opción justicia abierta. Análisis de la estadstica judicial en España. Portal del Poder Judicial http://www6.poderjudicial.es. Permiten descarga de la base de datos (formato pc-axis). Datos actualizados? quizá conversión a formatos abiertos?
+- Opción justicia abierta. Análisis de la estadstica judicial en España. Portal del Poder Judicial http://www6.poderjudicial.es. Permiten descarga de la base de datos (formato pc-axis). Datos actualizados? quizá conversión a formatos abiertos? Quizá enriquecimiento de los datos?
 
 -Opción abrir los datos, para potencial uso de aplicaciones, también ciudades. Relacionado con Smart Cities (ver, por ejemplo, https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/) 
 
