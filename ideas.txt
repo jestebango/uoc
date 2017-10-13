@@ -11,9 +11,12 @@ http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&
 
 - Opcion sobre datos abiertos del estado (España) http://datos.gob.es
 
-- Mecanismo de reporte sobre gobiernos (transparencia, etc. ) de la alianza para el gobierno abierto (Open Government Partnership) compromisos https://www.opengovpartnership.org/about/independent-reporting-mechanism/ogp-explorer-and-irm-data
+- Mecanismo de reporte sobre gobiernos (transparencia, etc. ) de la alianza para el gobierno abierto (Open Government Partnership)
+compromisos https://www.opengovpartnership.org/about/independent-reporting-mechanism/ogp-explorer-and-irm-data. Posible recogida y apertura de los datos de los informes IRM?
 
-- Opción justicia abierta. Análisis de la estadstica judicial en España. Portal del Poder Judicial http://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/
+- Opción justicia abierta. Análisis de la estadstica judicial en España. Portal del Poder Judicial http://www6.poderjudicial.es. Permiten descarga de la base de datos (formato pc-axis). Datos actualizados? quizá conversión a formatos abiertos?
+
+-Opción abrir los datos, para potencial uso de aplicaciones, también ciudades. Relacionado con Smart Cities (ver, por ejemplo, https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/) 
 
 
 
@@ -23,6 +26,11 @@ TEMÁTICA (combinación de varias)
 - Dataset enfocado a lugares de ocio de Madrid
 
 - Información procedentes de diferentes sensores en smartcities: temperaturas, flujo de tráfico,...)
+
+RECURSOS
+--------
+He encontrado este sitio; en realidad es una comunidad de web scraping. Quizá pueda sernos de utilidad? https://scrapy.org
+
 
 PROPUESTAS CONCRETAS
 --------------------
