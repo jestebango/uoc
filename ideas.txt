@@ -1,0 +1,22 @@
+IDEAS (alternativas)
+--------------------
+
+- Enriquecimiento de algún dataset existente interesante de Kaggle o similar.
+
+- Complementar dataset con datos abiertos de algún repositorio como 
+https://data.upf.edu/es/dataset
+http://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&pagename=ProductosYServicios%2FPYSLayout
+
+- Dataset compuesto por datos extraídos con web scraping de distintas fuentes
+
+
+TEMÁTICA (combinación de varias)
+--------
+
+- Dataset enfocado a lugares de ocio de Madrid
+
+- Información procedentes de diferentes sensores en smartcities: temperaturas, flujo de tráfico,...)
+
+PROPUESTAS CONCRETAS
+--------------------
+
