@@ -35,3 +35,5 @@ He encontrado este sitio; en realidad es una comunidad de web scraping. Quizá p
 PROPUESTAS CONCRETAS
 --------------------
 
+14/10/2017: He dejado un issue con una propuesta concreta
+
