@@ -1,6 +1,8 @@
 # uoc
 Asignatura TIPOLOGÍA DE DATOS. Práctica WEB SCRAPING. Ver Wiki para obtener más información
 
+09/11: ########### Reunión Skype 3 (20:00) ###########
+
 05/11: ########### Reunión Skype 2 (16:00) ###########
 
 01/11: ########### Fecha reunión puesta en común (16:00) ###########
