@@ -7,6 +7,8 @@ Hitos (ordenados de menor a mayor antigüedad):
 
 09/11: ########### Reunión Skype 3 (20:00) ###########
 
+08/11: (Actualización del MASTER con los archivos finales)
+
 05/11: ########### Reunión Skype 2 (16:00) ###########
 
 01/11: ########### Fecha reunión puesta en común (16:00) ###########
